@@ -1,4 +1,4 @@
-# SQL-for-Data-Science-Capstone-project
+# SQL for Data Science Capstone project
 
 This project showcases my SQL skills for Data Science. To get to my insights about a selected topic, I followed the following steps:
 
